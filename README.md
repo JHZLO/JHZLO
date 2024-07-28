@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DCBE,100:6FC7E1&height=200&section=footer&text=Jhzlo_github!&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DCBE,100:6FC7E1&height=200&section=footer&text=Jhzlo_github!🐯🦁&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
 )
 
   <br>
@@ -130,7 +130,9 @@ Here are some ideas to get you started:
 <br>
 
 ## :white_check_mark: Contact me
-[![Gmail Badge](https://img.shields.io/badge/-010703kjh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kjh0010703@naver.com)](mailto:kjh0010703@naver.com) [![Github Badge](https://img.shields.io/badge/-JHZLO-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JHZLO/)](https://www.github.com/JHZLO/) <p align='left'>
+[![Gmail Badge](https://img.shields.io/badge/-010703kjh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:010703kjh@gmail.com)](mailto:010703kjh@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-JHZLO-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JHZLO/)](https://www.github.com/JHZLO/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://jhzlo.tistory.com/)
 
 
 
