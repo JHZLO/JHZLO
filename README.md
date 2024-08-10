@@ -27,27 +27,32 @@ Here are some ideas to get you started:
   <tr>
     <th>Period</th>
     <th>Name</th>
+    <th>Status</th>
     <th>Note</th>
   </tr>
   <tr>
     <td>2020-03-02 ~ 현재</td>
     <td>단국대학교 사이버보안학과</td>
     <td>재학 중</td>
+    <td>...</td>
   </tr>
   <tr>
     <td>2024-01-02 ~ 2024-02-26</td>
     <td>LG Aimers 4기</td>
     <td>수료</td>
+    <td>private 33위</td>
   </tr>
   <tr>
     <td>2024-04-06 ~ 2024-04-07</td>
     <td>LG Aimers 오프라인 해커톤 참여</td>
-    <td>Private 7위</td>
+    <td>수료</td>
+    <td>private 7위</td>
   </tr>
   <tr>
     <td>2024-03-04 ~ 2024-06-18</td>
     <td>티맥스티베로 캠퍼스SW아카데미사업(TABA) 5기</td>
     <td>수료</td>
+    <td>우수 교육생</td>
   </tr>
 </table>
 </div>
