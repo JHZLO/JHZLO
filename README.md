@@ -93,7 +93,7 @@ Here are some ideas to get you started:
     <td>24-09 ~ 24-10</td>
     <td><a href="https://github.com/9oormthonDKU">러닝 매칭 서비스</a></td>
     <td>BE</td>
-    <td>진행 중</td>
+    <td>완료</td>
     <td>...</td>
   </tr>
   
