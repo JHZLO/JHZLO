@@ -1,9 +1,7 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DCBE,100:6FC7E1&height=200&section=header&text=Jhzlo_Github!🌴🦕&fontSize=60&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDB813,100:FF6F61&height=200&section=header&text=JHZLO_Github!&fontSize=45&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
 )
-
-<br>
 
 ### 🎞️ About me
 <div align="center"><br>
@@ -86,7 +84,7 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DCBE,100:6FC7E1&height=200&section=footer&textBg=false&fontColor=FBEFEF&animation=scaleIn
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:FDB813&height=200&section=footer&textBg=false&fontColor=FBEFEF&animation=scaleIn
 )
 
 </div>
