@@ -3,8 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:50C878&height=200&section=header&text=🌴JHZLO_Github!🦕&fontSize=45&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
 )
 
+<br>
+
 ### 🎞️ About me
-<div align="center"><br>
+<div align="center">
 <table>
   <tr>
     <th>Period</th>
@@ -83,6 +85,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=JHZLO&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 </div>
+
+<br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:50C878&height=200&section=footer&textBg=false&fontColor=FBEFEF&animation=scaleIn
 )
