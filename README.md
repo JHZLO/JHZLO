@@ -74,6 +74,14 @@
     <td>완료</td>
     <td>...</td>
   </tr>
+  <tr>
+    <td>24-11 ~ 현재</td>
+    <td><a href="https://github.com/DKU-SWExpert">SOLID CLOUD 2.0 성과지표 웹 서비스</a></td>
+    <td>FE, BE</td>
+    <td>진행중</td>
+    <td>SW Expert</td>
+  </tr>
+
   
 </table>
 </div>
