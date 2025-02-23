@@ -61,25 +61,11 @@
     <td>장려상</td>
   </tr>
   <tr>
-    <td>24-06 ~ 현재</td>
-    <td><a href="https://github.com/Alley-Oops-App">농구 커뮤니티 플랫폼</a></td>
-    <td>BE, DevOps</td>
-    <td>진행 중</td>
-    <td>...</td>
-  </tr>
-  <tr>
     <td>24-09 ~ 24-10</td>
     <td><a href="https://github.com/9oormthonDKU">러닝 매칭 서비스</a></td>
     <td>BE</td>
     <td>완료</td>
     <td>...</td>
-  </tr>
-  <tr>
-    <td>24-11 ~ 현재</td>
-    <td><a href="https://github.com/DKU-SWExpert">SOLID CLOUD 2.0 성과지표 웹 서비스</a></td>
-    <td>FE, BE</td>
-    <td>진행중</td>
-    <td>SW Expert</td>
   </tr>
 
   
