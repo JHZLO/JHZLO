@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:50C878&height=200&section=header&text=🌴JHZLO_Github!🦕&fontSize=45&fontAlignY=50&textBg=false&fontColor=FBEFEF&animation=scaleIn
 )
 
-<br>
 
 ### 🛠️ Projects
 <div align="center">
@@ -103,6 +102,7 @@
   </a>
 </div>
 
+<br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:50C878&height=200&section=footer&textBg=false&fontColor=FBEFEF&animation=scaleIn
 )
