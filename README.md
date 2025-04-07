@@ -5,37 +5,6 @@
 
 <br>
 
-### 🎞️ About me
-<div align="center">
-<table>
-  <tr>
-    <th>Period</th>
-    <th>Name</th>
-    <th>Status</th>
-    <th>Note</th>
-  </tr>
-  <tr>
-    <td>2020-03-02 ~ 현재</td>
-    <td>단국대학교 사이버보안학과</td>
-    <td>재학 중</td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td>2024-01-02 ~ 2024-02-26</td>
-    <td>LG Aimers 4기</td>
-    <td>수료</td>
-    <td>예선 33위 / 본선 7위</td>
-  </tr>
-  <tr>
-    <td>2024-03-04 ~ 2024-06-18</td>
-    <td>캠퍼스SW아카데미사업(TABA) 5기</td>
-    <td>수료</td>
-    <td>IITP 원장상</td>
-  </tr>
-</table>
-</div>
-<br>
-
 ### 🛠️ Projects
 <div align="center">
 <table>
@@ -67,20 +36,73 @@
     <td>완료</td>
     <td>...</td>
   </tr>
+  <tr>
+    <td>25-02 ~ 현재</td>
+    <td><a href="https://github.com/kurtfarm"> MES </a></td>
+    <td>BE</td>
+    <td>진행 중</td>
+    <td>MSA 아키텍처</td>
+  </tr>
+  <tr>
+    <td>25-03 ~ 현재</td>
+    <td><a href="https://github.com/dku-capstone">큐싱 탐지 및 신뢰 QR 생성 서비스</a></td>
+    <td>BE</td>
+    <td>진행 중</td>
+    <td>...</td>
+  </tr>
 
   
+</table>
+</div>
+
+<br>
+
+### 🎞️ About me
+<div align="center">
+<table>
+  <tr>
+    <th>Period</th>
+    <th>Name</th>
+    <th>Status</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td>2020-03-02 ~ 현재</td>
+    <td>DKU 사이버보안학과</td>
+    <td>재학 중</td>
+    <td>26.02 졸업예정</td>
+  </tr>
+  <tr>
+    <td>2024-01-02 ~ 2024-02-26</td>
+    <td>LG Aimers 4기</td>
+    <td>수료</td>
+    <td>예선 33위 / 본선 7위</td>
+  </tr>
+  <tr>
+    <td>2024-03-04 ~ 2024-06-18</td>
+    <td>캠퍼스SW아카데미사업(TABA) 5기</td>
+    <td>수료</td>
+    <td>IITP 원장상</td>
+  </tr>
+  <tr>
+    <td>2024-10-18 ~ 현재</td>
+    <td>DKU SW EXPERT</td>
+    <td>진행 중</td>
+    <td>...</td>
+  </tr>
 </table>
 </div>
 <br>
 
 ### 🪄 Stats
 <div align="center">
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=JHZLO&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+  <img src="https://github-readme-stats.vercel.app/api/?username=JHZLO&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="margin-right: 40px;" />
+  
+  <a href="https://solved.ac/kjh010703/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh010703" />
+  </a>
 </div>
 
-<br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:50C878&height=200&section=footer&textBg=false&fontColor=FBEFEF&animation=scaleIn
 )
