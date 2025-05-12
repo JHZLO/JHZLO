@@ -37,7 +37,12 @@
   </tr>
   <tr>
     <td>25-02 ~ 현재</td>
-    <td><a href="https://github.com/kurtfarm"> MES </a></td>
+    <td>대경 인쇄 생산 관리 시스템</br>
+      <ul>
+        <li><a href="https://github.com/kurtfarm/wayfarer-auth">Auth Server</a></li>
+        <li><a href="https://github.com/kurtfarm/wayfarer-stock">Stock Server</a></li>
+      </ul>
+    </td>
     <td>BE</td>
     <td>진행 중</td>
     <td>MSA 아키텍처</td>
@@ -84,9 +89,9 @@
     <td>IITP 원장상</td>
   </tr>
   <tr>
-    <td>2024-10-18 ~ 현재</td>
+    <td>2024-10-18 ~ 2025-02-28</td>
     <td>DKU SW EXPERT</td>
-    <td>진행 중</td>
+    <td>완료</td>
     <td>...</td>
   </tr>
 </table>
