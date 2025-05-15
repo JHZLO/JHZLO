@@ -98,6 +98,25 @@
 </div>
 <br>
 
+### 🌴 OpenSource Contribution
+<div align="center">
+<table>
+  <tr>
+    <th>Project</th>
+    <th>PR</th>
+    <th>Commit</th>
+    <th>Content</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/spring-projects/spring-ai">spring-ai</a></td>
+    <td><a href="https://github.com/spring-projects/spring-ai/pull/3146">#3146</a></td>
+    <td><a href="https://github.com/spring-projects/spring-ai/commit/e14e788a47f8962075fb312c62382afc6694ef1f)">e14e788</a></td></td>
+    <td>add @JsonProperty for response_format to ensure correct JSON map</td>
+  </tr>
+</table>
+</div>
+<br>
+
 ### 🪄 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=JHZLO&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="margin-right: 40px;" />
