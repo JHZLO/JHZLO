@@ -113,6 +113,18 @@
     <td><a href="https://github.com/spring-projects/spring-ai/commit/e14e788a47f8962075fb312c62382afc6694ef1f">e14e788</a></td></td>
     <td>add @JsonProperty for response_format to ensure correct JSON map</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/spring-projects/spring-ai">spring-ai</a></td>
+    <td><a href="https://github.com/spring-projects/spring-ai/pull/3188">#3188</a></td>
+    <td><a href="https://github.com/spring-projects/spring-ai/commit/8a5f68d655608ff4adf11e659c78f61e118c9820">8a5f68d</a></td></td>
+    <td>remove redundant samples() method</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/spring-projects/spring-ai">spring-ai</a></td>
+    <td><a href="https://github.com/spring-projects/spring-ai/pull/3146">#3189</a></td>
+    <td><a href="https://github.com/spring-projects/spring-ai/commit/2721c9e676572c0dbeba906385b13555936cf66b">2721c9e</a></td></td>
+    <td>simplify stylePreset merge logic in StabilityAiImageOptions builder</td>
+  </tr>
 </table>
 </div>
 <br>
