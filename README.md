@@ -11,28 +11,24 @@
     <th>Period</th>
     <th>Name</th>
     <th>Role</th>
-    <th>Status</th>
     <th>Note</th>
   </tr>
   <tr>
     <td>24-01 ~ 24-04</td>
     <td><a href="https://github.com/JHZLO/lgAimers">MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발</a></td>
     <td>AI(ML)</td>
-    <td>완료</td>
     <td>7위</td>
   </tr>
   <tr>
     <td>24-03 ~ 24-06</td>
     <td><a href="https://github.com/TABA-4-Roses-1-Thorn">무인점포 내 이상행동 탐지 서비스</a></td>
     <td>PM, BE, AI(CV)</td>
-    <td>완료</td>
     <td>장려상</td>
   </tr>
   <tr>
     <td>24-09 ~ 24-10</td>
     <td><a href="https://github.com/9oormthonDKU">러닝 매칭 서비스</a></td>
     <td>BE</td>
-    <td>완료</td>
     <td>...</td>
   </tr>
   <tr>
@@ -44,14 +40,12 @@
       </ul>
     </td>
     <td>BE</td>
-    <td>진행 중</td>
     <td>MSA 아키텍처</td>
   </tr>
   <tr>
     <td>25-03 ~ 현재</td>
     <td><a href="https://github.com/dku-capstone">큐싱 탐지 및 신뢰 QR 생성 서비스</a></td>
     <td>BE</td>
-    <td>진행 중</td>
     <td>...</td>
   </tr>
 
