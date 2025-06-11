@@ -21,13 +21,13 @@
   </tr>
   <tr>
     <td>24-03 ~ 24-06</td>
-    <td><a href="https://github.com/TABA-4-Roses-1-Thorn">무인점포 내 이상행동 탐지 서비스</a></td>
+    <td><a href="https://github.com/TABA-4-Roses-1-Thorn">DABOA, 무인점포 내 이상행동 탐지 서비스</a></td>
     <td>PM, BE, AI(CV)</td>
     <td>장려상</td>
   </tr>
   <tr>
     <td>24-09 ~ 24-10</td>
-    <td><a href="https://github.com/9oormthonDKU">러닝 매칭 서비스</a></td>
+    <td><a href="https://github.com/9oormthonDKU">진런이, 러닝 매칭 서비스</a></td>
     <td>BE</td>
     <td>...</td>
   </tr>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>25-03 ~ 25-06</td>
-    <td><a href="https://github.com/dku-capstone">큐싱 탐지 및 신뢰 QR 생성 서비스</a></td>
+    <td><a href="https://github.com/dku-capstone">QRust, 큐싱 탐지 및 신뢰 QR 생성 서비스</a></td>
     <td>BE</td>
     <td>...</td>
   </tr>
