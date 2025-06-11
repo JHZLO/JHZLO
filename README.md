@@ -15,8 +15,8 @@
   </tr>
   <tr>
     <td>24-01 ~ 24-04</td>
-    <td><a href="https://github.com/JHZLO/lgAimers">MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발</a></td>
-    <td>AI(ML)</td>
+    <td><a href="https://github.com/JHZLO/lgAimers">MQL 데이터 기반 B2B 영업 기회 창출 예측</a></td>
+    <td>AI</td>
     <td>7위</td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>25-05 ~ 25-06</td>
-    <td><a href="https://github.com/opensource-sw-5">단국대 데이터 사이언스 경진대회 - Kaggle 시계열</a></td>
+    <td><a href="https://github.com/opensource-sw-5">스마트 팩토리 전력 예측</a></td>
     <td>AI</td>
     <td>우수상</td>
   </tr>
