@@ -21,13 +21,13 @@
   </tr>
   <tr>
     <td>24-03 ~ 24-06</td>
-    <td><a href="https://github.com/TABA-4-Roses-1-Thorn">DABOA, 무인점포 내 이상행동 탐지 서비스</a></td>
+    <td><a href="https://github.com/TABA-4-Roses-1-Thorn">무인점포 내 이상행동 탐지 서비스</a></td>
     <td>PM, BE, AI(CV)</td>
     <td>장려상</td>
   </tr>
   <tr>
     <td>24-09 ~ 24-10</td>
-    <td><a href="https://github.com/9oormthonDKU">진런이, 러닝 매칭 서비스</a></td>
+    <td><a href="https://github.com/9oormthonDKU">러닝 매칭 서비스</a></td>
     <td>BE</td>
     <td>...</td>
   </tr>
@@ -44,13 +44,13 @@
   </tr>
   <tr>
     <td>25-03 ~ 25-06</td>
-    <td><a href="https://github.com/dku-capstone">QRust, 큐싱 탐지 및 신뢰 QR 생성 서비스</a></td>
+    <td><a href="https://github.com/dku-capstone">큐싱 탐지 및 신뢰 QR 생성 서비스</a></td>
     <td>BE</td>
     <td>...</td>
   </tr>
   <tr>
     <td>25-04 ~ 25-06</td>
-    <td><a href="https://github.com/opensource-sw-5">Vata, 나만의 AI 프로필 이미지 생성기</a></td>
+    <td><a href="https://github.com/opensource-sw-5">나만의 AI 프로필 이미지 생성기</a></td>
     <td>BE</td>
     <td>...</td>
   </tr>
@@ -83,21 +83,27 @@
     <td>26.02 졸업예정</td>
   </tr>
   <tr>
-    <td>2024-01-02 ~ 2024-02-26</td>
+    <td>2024-01 ~ 2024-02</td>
     <td>LG Aimers 4기</td>
     <td>수료</td>
     <td>예선 33위 / 본선 7위</td>
   </tr>
   <tr>
-    <td>2024-03-04 ~ 2024-06-18</td>
+    <td>2024-03 ~ 2024-06</td>
     <td>캠퍼스SW아카데미사업(TABA) 5기</td>
     <td>수료</td>
     <td>IITP 원장상</td>
   </tr>
   <tr>
-    <td>2024-10-18 ~ 2025-02-28</td>
+    <td>2024-10 ~ 2025-02</td>
     <td>DKU SW EXPERT</td>
     <td>완료</td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>2025-05 ~ 현재</td>
+    <td>IT 연합동아리 YAPP 26기 Server</td>
+    <td>진행중</td>
     <td>...</td>
   </tr>
 </table>
