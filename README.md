@@ -43,10 +43,22 @@
     <td>MSA 아키텍처</td>
   </tr>
   <tr>
-    <td>25-03 ~ 현재</td>
+    <td>25-03 ~ 25-06</td>
     <td><a href="https://github.com/dku-capstone">큐싱 탐지 및 신뢰 QR 생성 서비스</a></td>
     <td>BE</td>
     <td>...</td>
+  </tr>
+  <tr>
+    <td>25-04 ~ 25-06</td>
+    <td><a href="https://github.com/opensource-sw-5">Vata, 나만의 AI 프로필 이미지 생성기</a></td>
+    <td>BE</td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>25-05 ~ 25-06</td>
+    <td><a href="https://github.com/opensource-sw-5">단국대 데이터 사이언스 경진대회 - Kaggle 시계열</a></td>
+    <td>AI</td>
+    <td>우수상</td>
   </tr>
 
   
