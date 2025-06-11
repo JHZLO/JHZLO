@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>25-05 ~ 25-06</td>
-    <td><a href="https://github.com/opensource-sw-5">스마트 팩토리 전력 예측</a></td>
+    <td><a href="https://github.com/JHZLO/smartfactory-power-predictor">스마트 팩토리 전력 예측</a></td>
     <td>AI</td>
     <td>우수상</td>
   </tr>
