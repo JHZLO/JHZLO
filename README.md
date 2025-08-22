@@ -64,7 +64,7 @@
     <td>25-05 ~ 25-08</td>
     <td><a href="https://github.com/YAPP-Github/26th-Web-Team-3-BE">Lettie, 지금을 담는 웹 타임캡슐 플랫폼</a></td>
     <td>BE</td>
-    <td></td>
+    <td><a href="https://www.lettie.me">바로가기</a></td>
   </tr>
 
   
