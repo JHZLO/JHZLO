@@ -40,7 +40,7 @@
       </ul>
     </td>
     <td>BE</td>
-    <td>MSA 아키텍처</td>
+    <td>...</td>
   </tr>
   <tr>
     <td>25-03 ~ 25-06</td>
