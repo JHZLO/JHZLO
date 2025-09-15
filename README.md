@@ -109,7 +109,7 @@
   <tr>
     <td>2025-05 ~ 2025~08</td>
     <td>IT 연합동아리 YAPP 26기 Server</td>
-    <td>진행중</td>
+    <td>수료</td>
     <td>...</td>
   </tr>
 </table>
