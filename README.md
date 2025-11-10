@@ -112,6 +112,12 @@
     <td>수료</td>
     <td>...</td>
   </tr>
+  <tr>
+    <td>2025-09 ~ </td>
+    <td>트립스토어 Backend Developer</td>
+    <td>현재</td>
+    <td>...</td>
+  </tr>
 </table>
 </div>
 <br>
