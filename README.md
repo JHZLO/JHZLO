@@ -46,7 +46,7 @@
     <td>25-03 ~ 25-06</td>
     <td><a href="https://github.com/dku-capstone">큐싱 탐지 및 신뢰 QR 생성 서비스</a></td>
     <td>BE</td>
-    <td>...</td>
+    <td>인기상</td>
   </tr>
   <tr>
     <td>25-04 ~ 25-06</td>
@@ -64,7 +64,7 @@
     <td>25-05 ~ 25-08</td>
     <td><a href="https://github.com/YAPP-Github/26th-Web-Team-3-BE">Lettie, 지금을 담는 웹 타임캡슐 플랫폼</a></td>
     <td>BE</td>
-    <td><a href="https://www.lettie.me">바로가기</a></td>
+    <td>우수상</td>
   </tr>
 
   
@@ -113,7 +113,7 @@
     <td>...</td>
   </tr>
   <tr>
-    <td>2025-09 ~ </td>
+    <td>2025-09 ~ 현재</td>
     <td>트립스토어 Backend Developer</td>
     <td>현재</td>
     <td>...</td>
