@@ -32,13 +32,6 @@
     <td>...</td>
   </tr>
   <tr>
-    <td>25-02 ~ 현재</td>
-    <td>대경 인쇄 생산 관리 시스템</br>
-      <ul>
-        <li><a href="https://github.com/kurtfarm/wayfarer-auth">Auth Server</a></li>
-        <li><a href="https://github.com/kurtfarm/wayfarer-stock">Stock Server</a></li>
-      </ul>
-    </td>
     <td>BE</td>
     <td>...</td>
   </tr>
@@ -83,10 +76,10 @@
     <th>Note</th>
   </tr>
   <tr>
-    <td>2020-03-02 ~ 현재</td>
+    <td>2020-03 ~ 2026-02</td>
     <td>DKU 사이버보안학과</td>
-    <td>재학 중</td>
-    <td>26.02 졸업예정</td>
+    <td>졸업</td>
+    <td>성적 우등상</td>
   </tr>
   <tr>
     <td>2024-01 ~ 2024-02</td>
