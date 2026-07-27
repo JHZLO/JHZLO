@@ -144,16 +144,6 @@
   </tr>
 </table>
 </div>
-<br>
-
-### 🪄 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=JHZLO&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="margin-right: 40px;" />
-  
-  <a href="https://solved.ac/kjh010703/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh010703" />
-  </a>
-</div>
 
 <br>
 
