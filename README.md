@@ -32,10 +32,6 @@
     <td>...</td>
   </tr>
   <tr>
-    <td>BE</td>
-    <td>...</td>
-  </tr>
-  <tr>
     <td>25-03 ~ 25-06</td>
     <td><a href="https://github.com/dku-capstone">큐싱 탐지 및 신뢰 QR 생성 서비스</a></td>
     <td>BE</td>
