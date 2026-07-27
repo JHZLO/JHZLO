@@ -104,9 +104,11 @@
   <tr>
     <td>2025-09 ~ 현재</td>
     <td>트립스토어 Backend Developer</td>
-    <td>현재</td>
-    <td>...</td>
-  </tr>
+    <td>재직 중</td>
+    <td>
+    <a href="https://github.com/junhyoung-kim-dev">@junhyoung-kim-dev</a>
+  </td>
+</tr>
 </table>
 </div>
 <br>
